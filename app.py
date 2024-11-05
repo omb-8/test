@@ -1,5 +1,5 @@
 import streamlit as st
-from backend.new_chain import get_chain
+#from backend.new_chain import get_chain
 
 # chain = None
 
